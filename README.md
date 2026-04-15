@@ -14,3 +14,4 @@ The datasets used in this research are publicly accessible at https://staff.itee
 A. Ajayan, G. Kirubavathi, I.H. Sarker, XNFT: Explainable network flow transformer for transparent detection of DDoS attacks in real-world networks, Computer Networks 281 (2026) 112224. https://doi.org/10.1016/j.comnet.2026.112224
 
 ## Zenodo
+Amal Ajayan. amalajayan13/XNFT: V1. v1, Zenodo, 15 Apr. 2026, https://doi.org/10.5281/zenodo.19593793.
