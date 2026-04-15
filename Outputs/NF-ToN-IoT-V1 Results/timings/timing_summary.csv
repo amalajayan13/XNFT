@@ -1,0 +1,2 @@
+Dataset,Training Time (s),Evaluation Time (s),Avg Inference Time (ms),Max / Min Inference (ms)
+NF-ToN-IoT.csv,954.8,1.04,42.415,— / —
