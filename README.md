@@ -2,6 +2,8 @@
 
 # XNFT
 
+# Dataset
+The datasets used in this research are publicly accessible at https://staff.itee.uq.edu.au/marius/NIDS_datasets/
 
 # DOI
 A. Ajayan, G. Kirubavathi, I.H. Sarker, XNFT: Explainable network flow transformer for transparent detection of DDoS attacks in real-world networks, Computer Networks 281 (2026) 112224. https://doi.org/10.1016/j.comnet.2026.112224
