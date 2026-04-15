@@ -1,6 +1,6 @@
 # Published in Elsevier- Computer Networks
 
-# XNFT: Explainable network flow transformer for transparent detection of DDoS attacks in real-world networks
+# [XNFT: Explainable network flow transformer for transparent detection of DDoS attacks in real-world networks](https://doi.org/10.1016/j.comnet.2026.112224)
 
 ## Reproducibility
 This repository contains the Jupyter notebooks used for the analysis in the preparation of the manuscript. Each folder in ``Outputs`` contains the Jupyter notebook and the complete details for each dataset. The execution environment for this project is provided in ``conda_env.yml``. 
