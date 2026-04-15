@@ -3,7 +3,7 @@
 # XNFT: Explainable network flow transformer for transparent detection of DDoS attacks in real-world networks
 
 ## Reproducibility
-This repository contains the Jupyter notebooks used for the analysis in the preparation of the manuscript. Each folder in ``Outputs`` contains the Jupyter notebook and the complete details for each dataset.
+This repository contains the Jupyter notebooks used for the analysis in the preparation of the manuscript. Each folder in ``Outputs`` contains the Jupyter notebook and the complete details for each dataset. The execution environment for this project is provided in ``conda_env.yml``. 
 
 All training, evaluation, and profiling experiments were conducted on a system running Red Hat Enterprise Linux Server 7.9 (Maipo), equipped with an Intel Xeon Gold 5120 CPU, 128GB of system memory, and an NVIDIA Tesla V100-PCIE GPU with 16GB VRAM. This configuration was consistently used to measure training time, evaluation time, model size, and real-time inference latency.
 
